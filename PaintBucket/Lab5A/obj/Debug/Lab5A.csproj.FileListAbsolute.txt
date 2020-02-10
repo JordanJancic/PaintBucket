@@ -1,0 +1,19 @@
+D:\Mohawk\Semester 3\Programming In .NET\Labs\Lab 05\Lab5A\Lab5A\bin\Debug\Lab5A.exe.config
+D:\Mohawk\Semester 3\Programming In .NET\Labs\Lab 05\Lab5A\Lab5A\bin\Debug\Lab5A.exe
+D:\Mohawk\Semester 3\Programming In .NET\Labs\Lab 05\Lab5A\Lab5A\bin\Debug\Lab5A.pdb
+D:\Mohawk\Semester 3\Programming In .NET\Labs\Lab 05\Lab5A\Lab5A\obj\Debug\Lab5A.csprojAssemblyReference.cache
+D:\Mohawk\Semester 3\Programming In .NET\Labs\Lab 05\Lab5A\Lab5A\obj\Debug\Lab5A.Form1.resources
+D:\Mohawk\Semester 3\Programming In .NET\Labs\Lab 05\Lab5A\Lab5A\obj\Debug\Lab5A.Properties.Resources.resources
+D:\Mohawk\Semester 3\Programming In .NET\Labs\Lab 05\Lab5A\Lab5A\obj\Debug\Lab5A.csproj.GenerateResource.cache
+D:\Mohawk\Semester 3\Programming In .NET\Labs\Lab 05\Lab5A\Lab5A\obj\Debug\Lab5A.csproj.CoreCompileInputs.cache
+D:\Mohawk\Semester 3\Programming In .NET\Labs\Lab 05\Lab5A\Lab5A\obj\Debug\Lab5A.exe
+D:\Mohawk\Semester 3\Programming In .NET\Labs\Lab 05\Lab5A\Lab5A\obj\Debug\Lab5A.pdb
+C:\Users\Jordan\OneDrive - Mohawk College of Applied Arts and Technology\Semester 3\Programming In .NET\Labs\Lab 05\ForGithub\PaintBucket\Lab5A\bin\Debug\Lab5A.exe.config
+C:\Users\Jordan\OneDrive - Mohawk College of Applied Arts and Technology\Semester 3\Programming In .NET\Labs\Lab 05\ForGithub\PaintBucket\Lab5A\bin\Debug\Lab5A.exe
+C:\Users\Jordan\OneDrive - Mohawk College of Applied Arts and Technology\Semester 3\Programming In .NET\Labs\Lab 05\ForGithub\PaintBucket\Lab5A\bin\Debug\Lab5A.pdb
+C:\Users\Jordan\OneDrive - Mohawk College of Applied Arts and Technology\Semester 3\Programming In .NET\Labs\Lab 05\ForGithub\PaintBucket\Lab5A\obj\Debug\Lab5A.csprojAssemblyReference.cache
+C:\Users\Jordan\OneDrive - Mohawk College of Applied Arts and Technology\Semester 3\Programming In .NET\Labs\Lab 05\ForGithub\PaintBucket\Lab5A\obj\Debug\Lab5A.Form1.resources
+C:\Users\Jordan\OneDrive - Mohawk College of Applied Arts and Technology\Semester 3\Programming In .NET\Labs\Lab 05\ForGithub\PaintBucket\Lab5A\obj\Debug\Lab5A.Properties.Resources.resources
+C:\Users\Jordan\OneDrive - Mohawk College of Applied Arts and Technology\Semester 3\Programming In .NET\Labs\Lab 05\ForGithub\PaintBucket\Lab5A\obj\Debug\Lab5A.csproj.GenerateResource.cache
+C:\Users\Jordan\OneDrive - Mohawk College of Applied Arts and Technology\Semester 3\Programming In .NET\Labs\Lab 05\ForGithub\PaintBucket\Lab5A\obj\Debug\Lab5A.exe
+C:\Users\Jordan\OneDrive - Mohawk College of Applied Arts and Technology\Semester 3\Programming In .NET\Labs\Lab 05\ForGithub\PaintBucket\Lab5A\obj\Debug\Lab5A.pdb
